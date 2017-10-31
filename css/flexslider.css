@@ -1,0 +1,107 @@
+/*
+ * jQuery FlexSlider v2.4.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 and later license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ * 
+ */
+
+.slides,
+.slides > li,
+.flex-control-nav,
+.flex-direction-nav {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.flex-viewport {
+	max-height:365px;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+
+}
+.flex-control-nav {
+	position: absolute;
+	bottom: auto;
+	text-align: center;
+	left:-26%;
+	top: 0;
+	width: 24%;
+}
+ul.flex-direction-nav {
+	display: none;
+}
+.flex-control-thumbs li:nth-child(2) {
+    margin: 1em 0;
+}
+.flex-control-thumbs img {
+	width: 100%;
+	height: auto;
+	display: block;
+	opacity: .7;
+	cursor: pointer;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+	border: 1px solid #D1CFCF;
+}
+.flex-control-thumbs img:hover {
+	opacity: 1;
+}
+.flex-control-thumbs .flex-active {
+	opacity: 1;
+	cursor: default;
+}
+/* ====================================================================================================================
+ * RESPONSIVE
+ * ====================================================================================================================*/
+@media(max-width:1366px){
+.flex-control-nav { 
+    left: -22%; 
+}
+}
+@media(max-width:1280px){
+.flex-viewport {
+    max-height: 405px; 
+}
+.flex-control-nav {
+    left: -26%;
+}
+}
+@media screen and (max-width: 1080px) {
+.flex-viewport {
+    max-height: 340px;
+}
+}
+@media screen and (max-width: 991px) {
+.flex-control-nav {
+    width: 21%;
+}
+.flex-viewport {
+    max-height: 290px;
+}
+.flex-control-thumbs li:nth-child(2) {
+    margin: 0.5em 0;
+} 
+.offer-bottom-grids-info { 
+    margin-top: 1em;
+}
+}
+@media screen and (max-width:480px) {
+.flex-viewport {
+    max-height: 260px;
+}
+}
+@media screen and (max-width: 320px) {
+ 
+}
