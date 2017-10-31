@@ -15,3 +15,8 @@
 </table>
 
 Template is live in this Link - <a href="https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/">Ecommerce Template</a>
+<br />
+
+<h2>Features </h2>
+Mega Navigation Bar -
+<img src="https://image.ibb.co/i647oG/mega_navigation_bar.jpg" alt="mega_navigation_bar" border="0">
