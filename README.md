@@ -77,5 +77,9 @@
 #### Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap/faq.html
 <img src="https://image.ibb.co/hG4kaw/Frequesntly_Asked_Question.jpg" alt="Frequesntly_Asked_Question" border="1">
  <br /><br />
-  <br />
+ 
+ ## Mobile Friendly Tempalte
+ <img src="https://image.ibb.co/kceyTG/Mobile_Friendly_Template.jpg" alt="Mobile_Friendly_Template" border="0">
+ 
+  <br />  <br />  <br />
 # See The Ecommerce Template Live Here - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap
