@@ -1,1 +1,2 @@
 # EcommerceTemplateBootstrap
+<hr/>
