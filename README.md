@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-### This is a Responsive HTML5 Ecommerce Template with Combining Bootstrap CSS, Javascript, Jquery And Some other useful plugins like Zoom.js, Slider.js, Mega Slider and So On. Just Check this template and Hope you can find aalmost every feature you need in an any template. Template at - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap
+#### This is a Responsive HTML5 Ecommerce Template with Combining Bootstrap CSS, Javascript, Jquery And Some other useful plugins like Zoom.js, Slider.js, Mega Slider and So On. Just Check this template and Hope you can find almost every feature you need in an any template. Template at - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap
 
 
 ## Template is live in this Link - https://maniruzzamanakash.github.io/EcommerceTemplateBootstrap
