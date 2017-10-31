@@ -1,5 +1,4 @@
 <h2>EcommerceTemplateBootstrap</h2>
-<hr/>
 <table>
   <tr>
     <td> Template Name </td>
