@@ -1,0 +1,24 @@
+
+* ----------------------
+* CSS Files
+* ----------------------
+Bootsrap.min.css
+animate.min.css
+flexslider.css
+font-awesome.min.css
+jquery-validation.min.css
+owl.carousel.min.css
+webslider.min.css
+main.css
+
+* ----------------------
+* JS Files
+* ----------------------
+Bootstrap.min.js
+imagezoom.js
+flexslider.js
+jquery.min.js
+jqery_validate.min.js
+wow.min.js
+webslider.min.js
+Main.js
