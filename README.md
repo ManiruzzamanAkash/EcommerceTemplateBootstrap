@@ -1,4 +1,4 @@
-<h2 style="text-align:center">Ecommerce Template Bootstrap - Your Shop</h2>
+# Ecommerce Template Bootstrap - Your Shop
 <table>
   <tr>
     <td> Template Name </td>
